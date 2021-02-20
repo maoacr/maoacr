@@ -1,5 +1,5 @@
-### ¡ Nice to meet you,
-# You can tell me **Mao** ! 
+### Nice to meet you. 🤜🤛
+# ¡ You can tell me **Mao** ! 
 
 I'm **Frontend Developer & UI Designer**. You will find _Html_, _Css_ and _Js_ Proyects mainly and you are free to review, fork, comment, watch, share or whatever you want.
   
